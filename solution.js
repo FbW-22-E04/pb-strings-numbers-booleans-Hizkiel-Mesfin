@@ -5,8 +5,7 @@ const str = "This is a boring string";
 console.log(str);
 
 // task #2
-console.log(str[1]);
-console.log(str[5]);
+console.log(str[1], str[5]);
 
 //task #3
 const firstName = "Denzel Washington";
